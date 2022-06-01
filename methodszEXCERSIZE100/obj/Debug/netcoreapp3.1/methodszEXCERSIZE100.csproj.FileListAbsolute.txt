@@ -1,0 +1,14 @@
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\bin\Debug\netcoreapp3.1\methodszEXCERSIZE100.exe
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\bin\Debug\netcoreapp3.1\methodszEXCERSIZE100.deps.json
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\bin\Debug\netcoreapp3.1\methodszEXCERSIZE100.runtimeconfig.json
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\bin\Debug\netcoreapp3.1\methodszEXCERSIZE100.runtimeconfig.dev.json
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\bin\Debug\netcoreapp3.1\methodszEXCERSIZE100.dll
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\bin\Debug\netcoreapp3.1\methodszEXCERSIZE100.pdb
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\obj\Debug\netcoreapp3.1\methodszEXCERSIZE100.csproj.AssemblyReference.cache
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\obj\Debug\netcoreapp3.1\methodszEXCERSIZE100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\obj\Debug\netcoreapp3.1\methodszEXCERSIZE100.AssemblyInfoInputs.cache
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\obj\Debug\netcoreapp3.1\methodszEXCERSIZE100.AssemblyInfo.cs
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\obj\Debug\netcoreapp3.1\methodszEXCERSIZE100.csproj.CoreCompileInputs.cache
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\obj\Debug\netcoreapp3.1\methodszEXCERSIZE100.dll
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\obj\Debug\netcoreapp3.1\methodszEXCERSIZE100.pdb
+C:\Users\Jack Herer\Desktop\repos\methodsthatfailme\methodszEXCERSIZE100\methodszEXCERSIZE100\obj\Debug\netcoreapp3.1\methodszEXCERSIZE100.genruntimeconfig.cache
